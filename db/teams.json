@@ -1,84 +1,5 @@
 [
-  {
-    "wins": 1,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
-      "id": "el-barrio",
-      "name": "El Barrio",
-      "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg",
-      "url": "",
-      "presidentId": "adri-contreras",
-      "channel": "https://twitch.tv/1k",
-      "socialNetworks": [
-        "https://www.instagram.com/elbarrioklk/?hl=es",
-        "https://www.tiktok.com/@adricontreras4",
-        "https://twitter.com/elbarrioklk_",
-        "https://www.tiktok.com/@elbarrioklk"
-      ],
-      "players": [],
-      "coach": "Juan Arroita",
-      "coachInfo": {}
-    }
-  },
-  {
-    "wins": 1,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
-      "id": "ultimate-mostoles",
-      "name": "Ultimate Móstoles",
-      "image": "https://kings-league-api.midudev.workers.dev/static/logos/ultimate-mostoles.svg",
-      "url": "",
-      "presidentId": "djmariio",
-      "channel": "https://youtube.com/DjMaRiiO",
-      "socialNetworks": [
-        "https://m.youtube.com/user/DjMaRiiO/videos"
-      ],
-      "players": [],
-      "coach": "Nacho Castro",
-      "coachInfo": {}
-    }
-  },
-  {
-    "wins": 1,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://kings-league-api.midudev.workers.dev/static/logos/los-troncos.svg",
-      "url": "",
-      "presidentId": "perxitaa",
-      "channel": "https://twitch.tv/perxitaa",
-      "socialNetworks": [
-        "https://www.twitch.tv/perxitaa",
-        "https://www.instagram.com/troncosfc.oficial/",
-        "https://twitter.com/lostroncosfc_/",
-        "https://www.tiktok.com/@lostroncosfc_"
-      ],
-      "players": [],
-      "coach": "Pol Font",
-      "coachInfo": {}
-    }
-  },
-  {
-    "wins": 1,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
+    {
       "id": "1k",
       "name": "1K FC",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/1k.svg",
@@ -94,16 +15,56 @@
       "players": [],
       "coach": "Julio García Mera",
       "coachInfo": {}
-    }
-  },
-  {
-    "wins": 1,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
+    },
+    {
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg",
+      "url": "",
+      "presidentId": "adri-contreras",
+      "channel": "https://twitch.tv/1k",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": [],
+      "coach": "Juan Arroita",
+      "coachInfo": {}
+    },
+    {
+      "id": "ultimate-mostoles",
+      "name": "Ultimate Móstoles",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/ultimate-mostoles.svg",
+      "url": "",
+      "presidentId": "djmariio",
+      "channel": "https://youtube.com/DjMaRiiO",
+      "socialNetworks": [
+        "https://m.youtube.com/user/DjMaRiiO/videos"
+      ],
+      "players": [],
+      "coach": "Nacho Castro",
+      "coachInfo": {}
+    },
+    {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/los-troncos.svg",
+      "url": "",
+      "presidentId": "perxitaa",
+      "channel": "https://twitch.tv/perxitaa",
+      "socialNetworks": [
+        "https://www.twitch.tv/perxitaa",
+        "https://www.instagram.com/troncosfc.oficial/",
+        "https://twitter.com/lostroncosfc_/",
+        "https://www.tiktok.com/@lostroncosfc_"
+      ],
+      "players": [],
+      "coach": "Pol Font",
+      "coachInfo": {}
+    },
+    {
       "id": "saiyans-fc",
       "name": "Saiyans FC",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg",
@@ -116,16 +77,8 @@
       "players": [],
       "coach": "Daniel Romo",
       "coachInfo": {}
-    }
-  },
-  {
-    "wins": 1,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
+    },
+    {
       "id": "kunisports",
       "name": "Kunisports",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/kunisports.svg",
@@ -138,16 +91,8 @@
       "players": [],
       "coach": "Martín Posse",
       "coachInfo": {}
-    }
-  },
-  {
-    "wins": 0,
-    "loses": 1,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
+    },
+    {
       "id": "jijantes-fc",
       "name": "Jijantes FC",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/jijantes.svg",
@@ -163,16 +108,8 @@
       "players": [],
       "coach": "Marc Carmona",
       "coachInfo": {}
-    }
-  },
-  {
-    "wins": 0,
-    "loses": 1,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
+    },
+    {
       "id": "porcinos-fc",
       "name": "Porcinos FC",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg",
@@ -186,16 +123,8 @@
       "players": [],
       "coach": "Juvenal Edjogo",
       "coachInfo": {}
-    }
-  },
-  {
-    "wins": 0,
-    "loses": 1,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
+    },
+    {
       "id": "rayo-barcelona",
       "name": "Rayo de Barcelona",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/rayo-barcelona.svg",
@@ -211,16 +140,8 @@
       "players": [],
       "coach": "JuanluDBZ",
       "coachInfo": {}
-    }
-  },
-  {
-    "wins": 0,
-    "loses": 1,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
+    },
+    {
       "id": "xbuyer-team",
       "name": "XBUYER TEAM",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/xbuyer.svg",
@@ -233,16 +154,8 @@
       "players": [],
       "coach": "Víctor González",
       "coachInfo": {}
-    }
-  },
-  {
-    "wins": 0,
-    "loses": 1,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
+    },
+    {
       "id": "aniquiladores-fc",
       "name": "Aniquiladores FC",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/aniquiladores.svg",
@@ -255,16 +168,8 @@
       "players": [],
       "coach": "Sergio Verdirame",
       "coachInfo": {}
-    }
-  },
-  {
-    "wins": 0,
-    "loses": 1,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
+    },
+    {
       "id": "pio-fc",
       "name": "PIO FC",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/pio.svg",
@@ -279,5 +184,4 @@
       "coach": "Gerardo Torrado",
       "coachInfo": {}
     }
-  }
-]
+  ]
