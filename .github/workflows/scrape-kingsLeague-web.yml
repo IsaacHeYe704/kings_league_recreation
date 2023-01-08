@@ -5,7 +5,7 @@ name: Scrape Kings League information
 
 on:
   workflow_dispatch:
-    
+
   repository_dispatch:
     types: 
       - webhook
@@ -22,7 +22,8 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - run: 
+          run_install: true
+      - run:
           node scraping/leaderboard.js
           git config user.name kingsLeague-ihyBot
           git config user.email isaacheye@unisabana.edu.co
