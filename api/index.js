@@ -21,6 +21,10 @@ app.get("/leaderboard", (c) => {
 app.get("/teams", (c) => {
   return c.json(teams);
 });
+app.get("/teams/:id", (c) => {
+  const foundTeam = teams.find(team=>team.id === c.req.param('id'))
+  return foundTeam ? c.json(foundTeam): c.json({message:'team not found'},404) ;
+});
 app.get("/presidents", (c) => {
   return c.json(presidents);
 });
