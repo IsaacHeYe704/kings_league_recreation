@@ -1,4 +1,4 @@
-"# kings_league_recreation" 
+"# kings_league_recreation following https://www.twitch.tv/midudev tutorial " 
 /**
  * this project uses Cloudflare Workers! 
  *
