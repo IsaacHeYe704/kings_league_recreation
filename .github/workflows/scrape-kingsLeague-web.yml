@@ -24,6 +24,7 @@ jobs:
           node-version: 18
           run_install: true
       - run:
+          npm i
           node scraping/leaderboard.js
           git config user.name kingsLeague-ihyBot
           git config user.email isaacheye@unisabana.edu.co
