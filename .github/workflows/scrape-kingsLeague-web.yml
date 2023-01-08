@@ -27,7 +27,6 @@ jobs:
           npm i
           node scraping/leaderboard.js
           git config user.name kingsLeague-ihyBot
-          git config user.email isaacheye@unisabana.edu.co
           git add -A
           git commit -m "[BOT] updated kings league database"
           git push origin main
