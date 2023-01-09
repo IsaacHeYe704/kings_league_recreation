@@ -14,11 +14,32 @@ console.log("hola");
         teams.map(({ id, image, name }) => (
           <>
             <a href={`/team/${id}`}>
-              <img class="aspect-square w-16" src={image} alt={`escudo del equipo ${name}`} />
+              <img
+                class="aspect-square w-12"
+                src={image}
+                alt={`escudo del equipo ${name}`}
+              />
             </a>
           </>
         ))
       }
+      <nav>
+        <ul>
+          <li><a href="/equipos">Equipos</a></li>
+        </ul>
+        <ul>
+          <li><a href="/calendario">Calendario</a></li>
+        </ul>
+        <ul>
+          <li><a href="/estadisticas">Estadisticas</a></li>
+        </ul>
+        <ul>
+          <li><a href="/contacto">Contacto</a></li>
+        </ul>
+        <ul>
+          <li><a href="/reglamento">Reglamento</a></li>
+        </ul>
+      </nav>
     </header>
     <main>
       <img
