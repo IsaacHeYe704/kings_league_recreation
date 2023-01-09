@@ -11,7 +11,10 @@ app.get("/", (c) => {
   return c.json([
     { endpoint: "/leaderboard", description: "Returns the kings league leaderboard " },
     { endpoint: "/teams", description: "Returns the kings league teams " },
+    { endpoint: "/teams/:id", description: "Returns a team by its id " },
     { endpoint: "/presidents", description: "Returns the kings league presidents " },
+    { endpoint: "/presidents/:id", description: "Returns a president by its id " },
+
   ]);
 });
 
