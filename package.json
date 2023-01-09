@@ -1,7 +1,7 @@
 {
   "name": "kingsleague",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "kingsleague proyect, api",
   "main": "index.js",
   "type": "module",
   "scripts": {
