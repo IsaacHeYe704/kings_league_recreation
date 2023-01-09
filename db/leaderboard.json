@@ -1,36 +1,6 @@
 [
   {
-    "wins": 1,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
-      "id": "el-barrio",
-      "name": "El Barrio",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg",
-      "url": "",
-      "channel": "https://twitch.tv/1k",
-      "socialNetworks": [
-        "https://www.instagram.com/elbarrioklk/?hl=es",
-        "https://www.tiktok.com/@adricontreras4",
-        "https://twitter.com/elbarrioklk_",
-        "https://www.tiktok.com/@elbarrioklk"
-      ],
-      "players": [],
-      "coach": "Juan Arroita",
-      "coachInfo": {},
-      "president": {
-        "id": "adri-contreras",
-        "name": "Adri Contreras",
-        "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/presidents/adri-contreras.png",
-        "teamId": 0
-      }
-    }
-  },
-  {
-    "wins": 1,
+    "wins": 2,
     "loses": 0,
     "scoredGoals": 0,
     "concededGoal": 0,
@@ -57,37 +27,7 @@
     }
   },
   {
-    "wins": 1,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoal": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/los-troncos.svg",
-      "url": "",
-      "channel": "https://twitch.tv/perxitaa",
-      "socialNetworks": [
-        "https://www.twitch.tv/perxitaa",
-        "https://www.instagram.com/troncosfc.oficial/",
-        "https://twitter.com/lostroncosfc_/",
-        "https://www.tiktok.com/@lostroncosfc_"
-      ],
-      "players": [],
-      "coach": "Pol Font",
-      "coachInfo": {},
-      "president": {
-        "id": "perxitaa",
-        "name": "Perxitaa",
-        "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/presidents/perxitaa.png",
-        "teamId": 0
-      }
-    }
-  },
-  {
-    "wins": 1,
+    "wins": 2,
     "loses": 0,
     "scoredGoals": 0,
     "concededGoal": 0,
@@ -117,7 +57,7 @@
     }
   },
   {
-    "wins": 1,
+    "wins": 2,
     "loses": 0,
     "scoredGoals": 0,
     "concededGoal": 0,
@@ -144,7 +84,7 @@
     }
   },
   {
-    "wins": 1,
+    "wins": 2,
     "loses": 0,
     "scoredGoals": 0,
     "concededGoal": 0,
@@ -171,37 +111,67 @@
     }
   },
   {
-    "wins": 0,
+    "wins": 1,
     "loses": 1,
     "scoredGoals": 0,
     "concededGoal": 0,
     "cardsYellow": 0,
     "cardsRed": 0,
     "team": {
-      "id": "jijantes-fc",
-      "name": "Jijantes FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/jijantes.svg",
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg",
       "url": "",
-      "channel": "https://twitch.tv/gerardromero",
+      "channel": "https://twitch.tv/1k",
       "socialNetworks": [
-        "https://www.twitch.tv/gerardromero",
-        "https://www.instagram.com/jijantesfc/?hl=es",
-        "https://twitter.com/JijantesFC?s=20&t=40PQRh7lXf2HVdUs1pe-9w",
-        "https://www.tiktok.com/@jijantesfutbolclub"
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
       ],
       "players": [],
-      "coach": "Marc Carmona",
+      "coach": "Juan Arroita",
       "coachInfo": {},
       "president": {
-        "id": "gerard-romero",
-        "name": "Gerard Romero",
-        "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/presidents/gerard-romero.png",
+        "id": "adri-contreras",
+        "name": "Adri Contreras",
+        "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/presidents/adri-contreras.png",
         "teamId": 0
       }
     }
   },
   {
-    "wins": 0,
+    "wins": 1,
+    "loses": 1,
+    "scoredGoals": 0,
+    "concededGoal": 0,
+    "cardsYellow": 0,
+    "cardsRed": 0,
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/los-troncos.svg",
+      "url": "",
+      "channel": "https://twitch.tv/perxitaa",
+      "socialNetworks": [
+        "https://www.twitch.tv/perxitaa",
+        "https://www.instagram.com/troncosfc.oficial/",
+        "https://twitter.com/lostroncosfc_/",
+        "https://www.tiktok.com/@lostroncosfc_"
+      ],
+      "players": [],
+      "coach": "Pol Font",
+      "coachInfo": {},
+      "president": {
+        "id": "perxitaa",
+        "name": "Perxitaa",
+        "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/presidents/perxitaa.png",
+        "teamId": 0
+      }
+    }
+  },
+  {
+    "wins": 1,
     "loses": 1,
     "scoredGoals": 0,
     "concededGoal": 0,
@@ -229,7 +199,7 @@
     }
   },
   {
-    "wins": 0,
+    "wins": 1,
     "loses": 1,
     "scoredGoals": 0,
     "concededGoal": 0,
@@ -260,7 +230,37 @@
   },
   {
     "wins": 0,
-    "loses": 1,
+    "loses": 2,
+    "scoredGoals": 0,
+    "concededGoal": 0,
+    "cardsYellow": 0,
+    "cardsRed": 0,
+    "team": {
+      "id": "jijantes-fc",
+      "name": "Jijantes FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/jijantes.svg",
+      "url": "",
+      "channel": "https://twitch.tv/gerardromero",
+      "socialNetworks": [
+        "https://www.twitch.tv/gerardromero",
+        "https://www.instagram.com/jijantesfc/?hl=es",
+        "https://twitter.com/JijantesFC?s=20&t=40PQRh7lXf2HVdUs1pe-9w",
+        "https://www.tiktok.com/@jijantesfutbolclub"
+      ],
+      "players": [],
+      "coach": "Marc Carmona",
+      "coachInfo": {},
+      "president": {
+        "id": "gerard-romero",
+        "name": "Gerard Romero",
+        "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/presidents/gerard-romero.png",
+        "teamId": 0
+      }
+    }
+  },
+  {
+    "wins": 0,
+    "loses": 2,
     "scoredGoals": 0,
     "concededGoal": 0,
     "cardsYellow": 0,
@@ -287,7 +287,7 @@
   },
   {
     "wins": 0,
-    "loses": 1,
+    "loses": 2,
     "scoredGoals": 0,
     "concededGoal": 0,
     "cardsYellow": 0,
@@ -314,7 +314,7 @@
   },
   {
     "wins": 0,
-    "loses": 1,
+    "loses": 2,
     "scoredGoals": 0,
     "concededGoal": 0,
     "cardsYellow": 0,
