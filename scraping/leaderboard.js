@@ -1,19 +1,9 @@
-import * as cheerio from "cheerio";
 import TEAMS from "../db/teams.json" assert { type: "json" };
 import PRESIDENTS from "../db/presidents.json" assert { type: "json" };
-import { writeDBfile } from "../db/index.js";
+import { scrape } from "./utils.js";
 
-
-const URLS = {
-  leaderBoard: "https://kingsleague.pro/",
-};
-async function scrape(url) {
-  const res = await fetch(url);
-  const html = await res.text(res);
-  return cheerio.load(html);
-}
-async function getLeaderBoard() {
-  const $ = await scrape(URLS.leaderBoard);
+export async function getLeaderBoard(url) {
+  const $ = await scrape(url);
 
   const LEADERBOARD_SELECTORS = {
     team: { type: "string", selector: ".fs-table-text_3" },
@@ -70,6 +60,6 @@ async function getLeaderBoard() {
   return result;
 }
 
-const leaderBoard = await getLeaderBoard();
 
-await writeDBfile('leaderboard',leaderBoard)
+
+
