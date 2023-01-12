@@ -150,7 +150,7 @@
     "team": {
       "id": "los-troncos-fc",
       "name": "Los Troncos FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/los-troncos.svg",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/los-troncos.png",
       "url": "",
       "channel": "https://twitch.tv/perxitaa",
       "socialNetworks": [
@@ -268,7 +268,7 @@
     "team": {
       "id": "xbuyer-team",
       "name": "XBUYER TEAM",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer.svg",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer-team.svg",
       "url": "",
       "channel": "https://www.youtube.com/xbuyer",
       "socialNetworks": [
