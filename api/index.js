@@ -6,6 +6,7 @@ import presidents from "../db/presidents.json"
 import teams from "../db/teams.json"
 import goals from "../db/goals.json";
 import mvp from "../db/mvp.json"
+import assists from "../db/assists.json"
 
 const app = new Hono();
 
@@ -18,7 +19,7 @@ app.get("/", (c) => {
     { endpoint: "/presidents/:id", description: "Returns a president by its id " },
     { endpoint: "/goals", description: "Returns the goals scored by each player in the kings league" },
     { endpoint: "/mvp", description: "Returns the mvps won scored by each player in the kings league" },
-
+    { endpoint: "/assists", description: "Returns the assists achieved by each player in the kings league" },
   ]);
 });
 
@@ -44,6 +45,9 @@ app.get("/goals", (c) => {
 });
 app.get("/mvp", (c) => {
   return c.json(mvp);
+});
+app.get("/assists", (c) => {
+  return c.json(assists);
 });
 
 

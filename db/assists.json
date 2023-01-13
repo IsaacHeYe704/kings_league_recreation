@@ -1,0 +1,292 @@
+[
+  {
+    "rank": 1,
+    "name": "Franky P.",
+    "played_games": 2,
+    "scored_goals": 2,
+    "team": {
+      "name": "Rayo de Barcelona",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/rayo-barcelona.svg"
+    }
+  },
+  {
+    "rank": 2,
+    "name": "J. Verdú «Gingko»",
+    "played_games": 1,
+    "scored_goals": 2,
+    "team": {
+      "name": "Los Troncos FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/los-troncos.png"
+    }
+  },
+  {
+    "rank": 3,
+    "name": "A. Bueno",
+    "played_games": 2,
+    "scored_goals": 2,
+    "team": {
+      "name": "1K FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/1k.svg"
+    }
+  },
+  {
+    "rank": 4,
+    "name": "Sergio G.",
+    "played_games": 1,
+    "scored_goals": 2,
+    "team": {
+      "name": "Ultimate Móstoles",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles.svg"
+    }
+  },
+  {
+    "rank": 5,
+    "name": "G. Cichero",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Porcinos FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/porcinos-fc.svg"
+    }
+  },
+  {
+    "rank": 6,
+    "name": "Kilian",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Porcinos FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/porcinos-fc.svg"
+    }
+  },
+  {
+    "rank": 7,
+    "name": "Gio Ferinu",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Saiyans FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/saiyans-fc.svg"
+    }
+  },
+  {
+    "rank": 8,
+    "name": "Feliu",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Saiyans FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/saiyans-fc.svg"
+    }
+  },
+  {
+    "rank": 9,
+    "name": "David Alba",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Saiyans FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/saiyans-fc.svg"
+    }
+  },
+  {
+    "rank": 10,
+    "name": "R. Carbó",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Saiyans FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/saiyans-fc.svg"
+    }
+  },
+  {
+    "rank": 11,
+    "name": "Jacobo",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "El Barrio",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg"
+    }
+  },
+  {
+    "rank": 12,
+    "name": "Ros",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "El Barrio",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg"
+    }
+  },
+  {
+    "rank": 13,
+    "name": "Pau ZZ",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "El Barrio",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg"
+    }
+  },
+  {
+    "rank": 14,
+    "name": "S. Sánchez «Drago»",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Los Troncos FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/los-troncos.png"
+    }
+  },
+  {
+    "rank": 15,
+    "name": "Dani P.",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Rayo de Barcelona",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/rayo-barcelona.svg"
+    }
+  },
+  {
+    "rank": 16,
+    "name": "Alejandro",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Rayo de Barcelona",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/rayo-barcelona.svg"
+    }
+  },
+  {
+    "rank": 17,
+    "name": "Biboum M.",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Rayo de Barcelona",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/rayo-barcelona.svg"
+    }
+  },
+  {
+    "rank": 18,
+    "name": "Guti",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Ultimate Móstoles",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles.svg"
+    }
+  },
+  {
+    "rank": 19,
+    "name": "Aleix",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Ultimate Móstoles",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles.svg"
+    }
+  },
+  {
+    "rank": 20,
+    "name": "Lucca",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Ultimate Móstoles",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles.svg"
+    }
+  },
+  {
+    "rank": 21,
+    "name": "Ruggeri",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Kunisports",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/kunisports.svg"
+    }
+  },
+  {
+    "rank": 22,
+    "name": "Hidalgo",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Kunisports",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/kunisports.svg"
+    }
+  },
+  {
+    "rank": 23,
+    "name": "Coro",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Kunisports",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/kunisports.svg"
+    }
+  },
+  {
+    "rank": 24,
+    "name": "Sorroche",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "1K FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/1k.svg"
+    }
+  },
+  {
+    "rank": 25,
+    "name": "Lautaro",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "1K FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/1k.svg"
+    }
+  },
+  {
+    "rank": 26,
+    "name": "D. Vilà",
+    "played_games": 2,
+    "scored_goals": 1,
+    "team": {
+      "name": "Rayo de Barcelona",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/rayo-barcelona.svg"
+    }
+  },
+  {
+    "rank": 27,
+    "name": "D. Acedo",
+    "played_games": 1,
+    "scored_goals": 1,
+    "team": {
+      "name": "Aniquiladores FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/aniquiladores.svg"
+    }
+  },
+  {
+    "rank": 28,
+    "name": "Ibai",
+    "played_games": 1,
+    "scored_goals": 1,
+    "team": {
+      "name": "Jijantes FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/jijantes.svg"
+    }
+  },
+  {
+    "rank": 29,
+    "name": "De la Red",
+    "played_games": 1,
+    "scored_goals": 1,
+    "team": {
+      "name": "Ultimate Móstoles",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles.svg"
+    }
+  }
+]
