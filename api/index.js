@@ -4,6 +4,8 @@ import leaderboard from "../db/leaderboard.json";
 import{serveStatic }from "hono/serve-static.module"
 import presidents from "../db/presidents.json"
 import teams from "../db/teams.json"
+import goals from "../db/goals.json";
+import mvp from "../db/mvp.json"
 
 const app = new Hono();
 
@@ -14,6 +16,8 @@ app.get("/", (c) => {
     { endpoint: "/teams/:id", description: "Returns a team by its id " },
     { endpoint: "/presidents", description: "Returns the kings league presidents " },
     { endpoint: "/presidents/:id", description: "Returns a president by its id " },
+    { endpoint: "/goals", description: "Returns the goals scored by each player in the kings league" },
+    { endpoint: "/mvp", description: "Returns the mvps won scored by each player in the kings league" },
 
   ]);
 });
@@ -35,6 +39,14 @@ app.get("/presidents/:id", (c) => {
   let president = presidents.find((president) => president.id === c.req.param('id') )
   return president ? c.json(president) : c.json({message:'president not found'}, 404);
 });
+app.get("/goals", (c) => {
+  return c.json(goals);
+});
+app.get("/mvp", (c) => {
+  return c.json(mvp);
+});
+
+
 app.get("/static/*",serveStatic({root:"./"}))
 
 export default app;
