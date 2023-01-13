@@ -3,6 +3,7 @@ import { getLeaderBoard } from "./leaderboard.js";
 import { getMvpBoard } from "./mvp.js";
 import { writeDBfile } from "../db/index.js";
 import { logError, logInfo, logSuccess } from "./log.js";
+import { getGoalsBoard } from "./goals.js";
 
 export const SCRAPPINGS = {
   leaderBoard: {
@@ -13,6 +14,10 @@ export const SCRAPPINGS = {
     url: "https://kingsleague.pro/estadisticas/mvp/",
     scraper: getMvpBoard,
   },
+  goals:{
+    url: "https://kingsleague.pro/estadisticas/goles/",
+    scraper: getGoalsBoard,
+  }
 };
 export async function scrape(url) {
   const res = await fetch(url);
