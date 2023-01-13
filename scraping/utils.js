@@ -5,6 +5,7 @@ import { writeDBfile } from "../db/index.js";
 import { logError, logInfo, logSuccess } from "./log.js";
 import { getGoalsBoard } from "./goals.js";
 import { getAssistsBoard } from "./assists.js";
+import { getPlayersTwelve } from "./players_twelve.js";
 
 export const SCRAPPINGS = {
   leaderBoard: {
@@ -22,7 +23,10 @@ export const SCRAPPINGS = {
   assists:{
     url: "https://kingsleague.pro/estadisticas/asistencias/",
     scraper: getAssistsBoard,
-  }
+  },players_twelve: {
+		url: 'https://kingsleague.pro/jugador-12/',
+		scraper: getPlayersTwelve
+	},
 };
 export async function scrape(url) {
   const res = await fetch(url);
@@ -51,6 +55,13 @@ export async function scrapeAndSave(name){
   }
   
 }
+export const cleanText = (text) =>
+	text
+		.replace(/\t|\n|\s:/g, '')
+		.replace(/.*:/g, ' ')
+		.trim()
+
+
 
 
 
