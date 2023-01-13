@@ -7,6 +7,7 @@ const getImageFromTeamName = ({ name }) =>{
     let {image} = TEAMS.find((team) => team.name === name)
     // if the team is not found just return undefined,this way if there is a team we can find its president
     return {
+        name,
         image
     }
   }
