@@ -1,0 +1,45 @@
+---
+const response = await fetch(
+  "https://kingsleague-api.herrerayepesisaac.workers.dev/leaderboard"
+);
+const tableData = await response.json();
+---
+
+<div class="relative overflow-x-auto shadow-md sm:rounded-lg">
+  <table class="w-full text-xs text-left">
+    <thead class="font-black text-xs text-white uppercase bg-black">
+      <tr>
+        <th scope="col" class="px-6 py-3"> Pos</th>
+        <th scope="col" class="px-6 py-3"> Equipo</th>
+        <th scope="col" class="px-6 py-3"> V</th>
+        <th scope="col" class="px-6 py-3"> D</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        tableData.map((data, index) => {
+          const { team, wins, loses } = data;
+          const { name, image: imgUrl } = team;
+          return (
+            <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+              <th
+                scope="row"
+                class="px-6 py-4 text-black font-bold whitespace-nowrap dark:text-white"
+              >
+                {index + 1}
+              </th>
+              <a href="/is" class=" " >
+              <td class="px-6 py-4 flex items-center hover:cursor-pointer hover:bg-black">
+                  <img src={imgUrl} alt="imagen" class="spect-square w-7" />
+                  <p>{name}</p>
+                  </td>
+                  </a>
+              <td class="px-6 py-4"> {wins}</td>
+              <td class="px-6 py-4"> {loses}</td>
+            </tr>
+          );
+        })
+      }
+    </tbody>
+  </table>
+</div>
