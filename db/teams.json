@@ -3,6 +3,7 @@
     "id": "1k",
     "name": "1K FC",
     "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/1k.svg",
+    "imageWhite":"https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/1k-inverse.svg",
     "url": "",
     "presidentId": "iker-casillas",
     "channel": "https://www.youtube.com/@IkerCasillas",
@@ -192,6 +193,7 @@
     "id": "el-barrio",
     "name": "El Barrio",
     "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg",
+    "imageWhite":"https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio-inverse.svg",
     "url": "",
     "presidentId": "adri-contreras",
     "channel": "https://twitch.tv/1k",
@@ -381,6 +383,7 @@
     "id": "ultimate-mostoles",
     "name": "Ultimate Móstoles",
     "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles.svg",
+    "imageWhite":"https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles-inverse.svg"
     "url": "",
     "presidentId": "djmariio",
     "channel": "https://youtube.com/DjMaRiiO",
@@ -563,6 +566,7 @@
     "id": "los-troncos-fc",
     "name": "Los Troncos FC",
     "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/los-troncos.png",
+    "imageWhite":"https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/los-troncos-inverse.svg",
     "url": "",
     "presidentId": "perxitaa",
     "channel": "https://twitch.tv/perxitaa",
@@ -748,6 +752,8 @@
     "id": "saiyans-fc",
     "name": "Saiyans FC",
     "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/saiyans-fc.svg",
+    "imageWhite":"https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/saiyans-inverse.svg",
+
     "url": "",
     "presidentId": "thegrefg",
     "channel": "https://twitch.tv/thegrefg",
@@ -930,6 +936,7 @@
     "id": "kunisports",
     "name": "Kunisports",
     "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/kunisports.svg",
+    "imageWhite":"https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/kunisports-inverse.svg",
     "url": "",
     "presidentId": "kun-aguero",
     "channel": "https://twitch.tv/slakun10",
@@ -1112,6 +1119,8 @@
     "id": "jijantes-fc",
     "name": "Jijantes FC",
     "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/jijantes.svg",
+    "imageWhite":"https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/jijantes-inverse.svg",
+
     "url": "",
     "presidentId": "gerard-romero",
     "channel": "https://twitch.tv/gerardromero",
@@ -1297,6 +1306,8 @@
     "id": "porcinos-fc",
     "name": "Porcinos FC",
     "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/porcinos-fc.svg",
+    "imageWhite":"https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/porcinos-fc-inverse.svg",
+
     "url": "",
     "presidentId": "ibai-llanos",
     "channel": "https://twitch.tv/ibai",
@@ -1480,6 +1491,8 @@
     "id": "rayo-barcelona",
     "name": "Rayo de Barcelona",
     "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/rayo-barcelona.svg",
+    "imageWhite":"https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/rayo-barcelona-inverse.svg",
+
     "url": "",
     "presidentId": "spursito",
     "channel": "https://twitch.tv/spursito",
@@ -1667,6 +1680,8 @@
     "id": "xbuyer-team",
     "name": "XBUYER TEAM",
     "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer-team.svg",
+    "imageWhite":"https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer-team-inverse.svg",
+
     "url": "",
     "presidentId": "hnos-buyer",
     "channel": "https://www.youtube.com/xbuyer",
@@ -1849,6 +1864,8 @@
     "id": "aniquiladores-fc",
     "name": "Aniquiladores FC",
     "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/aniquiladores.svg",
+    "imageWhite":"https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/aniquiladores-inverse.svg",
+
     "url": "",
     "presidentId": "juan-guarnizo",
     "channel": "https://twitch.tv/juansguarnizo",
@@ -2031,6 +2048,8 @@
     "id": "pio-fc",
     "name": "PIO FC",
     "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/pio.svg",
+    "imageWhite":"https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/pio-inverse.svg",
+    
     "url": "",
     "presidentId": "rivers",
     "channel": "https://twitch.tv/rivers_gg",
