@@ -7,6 +7,7 @@ import teams from "../db/teams.json"
 import goals from "../db/goals.json";
 import mvp from "../db/mvp.json"
 import assists from "../db/assists.json"
+import playersTwelve from "../db/players_twelve.json"
 
 const app = new Hono();
 
@@ -20,6 +21,8 @@ app.get("/", (c) => {
     { endpoint: "/goals", description: "Returns the goals scored by each player in the kings league" },
     { endpoint: "/mvp", description: "Returns the mvps won scored by each player in the kings league" },
     { endpoint: "/assists", description: "Returns the assists achieved by each player in the kings league" },
+    { endpoint: "/playersTwelve", description: "Returns the star player of all teams in the kings league" },
+    
   ]);
 });
 
@@ -48,6 +51,9 @@ app.get("/mvp", (c) => {
 });
 app.get("/assists", (c) => {
   return c.json(assists);
+});
+app.get("/playersTwelve", (c) => {
+  return c.json(playersTwelve);
 });
 
 
