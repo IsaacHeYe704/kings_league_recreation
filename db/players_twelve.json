@@ -336,34 +336,6 @@
     }
   },
   {
-    "role": "RubénMedio",
-    "firstName": "",
-    "lastName": "",
-    "image": "ultimate-mostoles-8.webp",
-    "name": " ",
-    "id": "ultimate-mostoles-8",
-    "team": {
-      "id": "ultimate-mostoles",
-      "name": "Ultimate Móstoles",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles.svg",
-      "imageWhite": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles-inverse.svg"
-    }
-  },
-  {
-    "role": "EnigmaMedio",
-    "firstName": "",
-    "lastName": "",
-    "image": "xbuyer-team-69.webp",
-    "name": " ",
-    "id": "xbuyer-team-69",
-    "team": {
-      "id": "xbuyer-team",
-      "name": "XBUYER TEAM",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer-team.svg",
-      "imageWhite": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer-team-inverse.svg"
-    }
-  },
-  {
     "role": "DavidDelantero",
     "firstName": "",
     "lastName": "",
@@ -417,6 +389,34 @@
       "name": "PIO FC",
       "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/pio.svg",
       "imageWhite": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/pio-inverse.svg"
+    }
+  },
+  {
+    "role": "RubénMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "ultimate-mostoles-8.webp",
+    "name": " ",
+    "id": "ultimate-mostoles-8",
+    "team": {
+      "id": "ultimate-mostoles",
+      "name": "Ultimate Móstoles",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles.svg",
+      "imageWhite": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles-inverse.svg"
+    }
+  },
+  {
+    "role": "EnigmaMedio",
+    "firstName": "",
+    "lastName": "",
+    "image": "xbuyer-team-69.webp",
+    "name": " ",
+    "id": "xbuyer-team-69",
+    "team": {
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer-team.svg",
+      "imageWhite": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer-team-inverse.svg"
     }
   },
   {
