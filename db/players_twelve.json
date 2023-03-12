@@ -364,20 +364,6 @@
     }
   },
   {
-    "role": "DavidDelantero",
-    "firstName": "",
-    "lastName": "",
-    "image": "aniquiladores-fc-7.webp",
-    "name": " ",
-    "id": "aniquiladores-fc-7",
-    "team": {
-      "id": "aniquiladores-fc",
-      "name": "Aniquiladores FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/aniquiladores.svg",
-      "imageWhite": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/aniquiladores-inverse.svg"
-    }
-  },
-  {
     "role": "IbaiDelantero",
     "firstName": "",
     "lastName": "",
@@ -445,6 +431,20 @@
       "name": "XBUYER TEAM",
       "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer-team.svg",
       "imageWhite": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer-team-inverse.svg"
+    }
+  },
+  {
+    "role": "DavidDelantero",
+    "firstName": "",
+    "lastName": "",
+    "image": "aniquiladores-fc-7.webp",
+    "name": " ",
+    "id": "aniquiladores-fc-7",
+    "team": {
+      "id": "aniquiladores-fc",
+      "name": "Aniquiladores FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/aniquiladores.svg",
+      "imageWhite": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/aniquiladores-inverse.svg"
     }
   },
   {
