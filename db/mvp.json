@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "name": "F. Hernández",
-    "played_games": 8,
+    "played_games": 9,
     "mvps_won": 4,
     "team": {
       "name": "Aniquiladores FC",
@@ -12,7 +12,7 @@
   {
     "rank": 2,
     "name": "Ubón",
-    "played_games": 9,
+    "played_games": 10,
     "mvps_won": 4,
     "team": {
       "name": "El Barrio",
@@ -21,8 +21,18 @@
   },
   {
     "rank": 3,
+    "name": "A. Bueno",
+    "played_games": 10,
+    "mvps_won": 3,
+    "team": {
+      "name": "1K FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/1k.svg"
+    }
+  },
+  {
+    "rank": 4,
     "name": "Torrentbó",
-    "played_games": 9,
+    "played_games": 10,
     "mvps_won": 3,
     "team": {
       "name": "Kunisports",
@@ -30,9 +40,9 @@
     }
   },
   {
-    "rank": 4,
-    "name": "J. Verdú",
-    "played_games": 7,
+    "rank": 5,
+    "name": "Verdú, J.",
+    "played_games": 8,
     "mvps_won": 3,
     "team": {
       "name": "Los Troncos FC",
@@ -40,9 +50,9 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "name": "Lopo",
-    "played_games": 9,
+    "played_games": 10,
     "mvps_won": 3,
     "team": {
       "name": "PIO FC",
@@ -50,7 +60,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "name": "Briones",
     "played_games": 9,
     "mvps_won": 3,
@@ -60,9 +70,9 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "name": "Juanma Glez.",
-    "played_games": 9,
+    "played_games": 10,
     "mvps_won": 3,
     "team": {
       "name": "Ultimate Móstoles",
@@ -70,19 +80,9 @@
     }
   },
   {
-    "rank": 8,
-    "name": "A. Bueno",
-    "played_games": 9,
-    "mvps_won": 2,
-    "team": {
-      "name": "1K FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/1k.svg"
-    }
-  },
-  {
     "rank": 9,
     "name": "Pol",
-    "played_games": 8,
+    "played_games": 9,
     "mvps_won": 2,
     "team": {
       "name": "Jijantes FC",
@@ -91,8 +91,8 @@
   },
   {
     "rank": 10,
-    "name": "E. Álvaro",
-    "played_games": 9,
+    "name": "Álvaro, E.",
+    "played_games": 10,
     "mvps_won": 2,
     "team": {
       "name": "Los Troncos FC",
@@ -102,7 +102,7 @@
   {
     "rank": 11,
     "name": "R. Carbó",
-    "played_games": 9,
+    "played_games": 10,
     "mvps_won": 2,
     "team": {
       "name": "Saiyans FC",
@@ -111,8 +111,8 @@
   },
   {
     "rank": 12,
-    "name": "C. Castro",
-    "played_games": 9,
+    "name": "Poch",
+    "played_games": 10,
     "mvps_won": 2,
     "team": {
       "name": "XBUYER TEAM",
@@ -121,18 +121,28 @@
   },
   {
     "rank": 13,
-    "name": "Ricardo",
-    "played_games": 9,
-    "mvps_won": 1,
+    "name": "C. Castro",
+    "played_games": 10,
+    "mvps_won": 2,
     "team": {
-      "name": "1K FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/1k.svg"
+      "name": "XBUYER TEAM",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer-team.svg"
     }
   },
   {
     "rank": 14,
-    "name": "Sorroche",
-    "played_games": 9,
+    "name": "Corvo",
+    "played_games": 5,
+    "mvps_won": 2,
+    "team": {
+      "name": "PIO FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/pio.svg"
+    }
+  },
+  {
+    "rank": 15,
+    "name": "Ricardo",
+    "played_games": 10,
     "mvps_won": 1,
     "team": {
       "name": "1K FC",
@@ -140,9 +150,19 @@
     }
   },
   {
-    "rank": 15,
+    "rank": 16,
+    "name": "Sorroche",
+    "played_games": 10,
+    "mvps_won": 1,
+    "team": {
+      "name": "1K FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/1k.svg"
+    }
+  },
+  {
+    "rank": 17,
     "name": "Daniel P.",
-    "played_games": 9,
+    "played_games": 10,
     "mvps_won": 1,
     "team": {
       "name": "Aniquiladores FC",
@@ -150,29 +170,29 @@
     }
   },
   {
-    "rank": 16,
-    "name": "Jacobo",
-    "played_games": 9,
-    "mvps_won": 1,
-    "team": {
-      "name": "El Barrio",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg"
-    }
-  },
-  {
-    "rank": 17,
-    "name": "Pau ZZ",
-    "played_games": 9,
-    "mvps_won": 1,
-    "team": {
-      "name": "El Barrio",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg"
-    }
-  },
-  {
     "rank": 18,
+    "name": "Jacobo",
+    "played_games": 10,
+    "mvps_won": 1,
+    "team": {
+      "name": "El Barrio",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg"
+    }
+  },
+  {
+    "rank": 19,
+    "name": "Pau ZZ",
+    "played_games": 10,
+    "mvps_won": 1,
+    "team": {
+      "name": "El Barrio",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg"
+    }
+  },
+  {
+    "rank": 20,
     "name": "Ibai",
-    "played_games": 4,
+    "played_games": 5,
     "mvps_won": 1,
     "team": {
       "name": "Jijantes FC",
@@ -180,7 +200,7 @@
     }
   },
   {
-    "rank": 19,
+    "rank": 21,
     "name": "Soriano",
     "played_games": 6,
     "mvps_won": 1,
@@ -190,7 +210,7 @@
     }
   },
   {
-    "rank": 20,
+    "rank": 22,
     "name": "Víctor",
     "played_games": 9,
     "mvps_won": 1,
@@ -200,7 +220,7 @@
     }
   },
   {
-    "rank": 21,
+    "rank": 23,
     "name": "Kun Agüero",
     "played_games": 2,
     "mvps_won": 1,
@@ -210,9 +230,9 @@
     }
   },
   {
-    "rank": 22,
+    "rank": 24,
     "name": "Coro",
-    "played_games": 9,
+    "played_games": 10,
     "mvps_won": 1,
     "team": {
       "name": "Kunisports",
@@ -220,9 +240,9 @@
     }
   },
   {
-    "rank": 23,
-    "name": "P. Lechuga",
-    "played_games": 9,
+    "rank": 25,
+    "name": "Lechuga, P.",
+    "played_games": 10,
     "mvps_won": 1,
     "team": {
       "name": "Los Troncos FC",
@@ -230,9 +250,9 @@
     }
   },
   {
-    "rank": 24,
+    "rank": 26,
     "name": "Carlitos",
-    "played_games": 9,
+    "played_games": 10,
     "mvps_won": 1,
     "team": {
       "name": "PIO FC",
@@ -240,29 +260,9 @@
     }
   },
   {
-    "rank": 25,
-    "name": "Lao",
-    "played_games": 9,
-    "mvps_won": 1,
-    "team": {
-      "name": "Porcinos FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/porcinos-fc.svg"
-    }
-  },
-  {
-    "rank": 26,
-    "name": "G. Cichero",
-    "played_games": 9,
-    "mvps_won": 1,
-    "team": {
-      "name": "Porcinos FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/porcinos-fc.svg"
-    }
-  },
-  {
     "rank": 27,
-    "name": "J. Segovia",
-    "played_games": 9,
+    "name": "Lao",
+    "played_games": 10,
     "mvps_won": 1,
     "team": {
       "name": "Porcinos FC",
@@ -271,8 +271,48 @@
   },
   {
     "rank": 28,
-    "name": "Feliu",
+    "name": "G. Cichero",
+    "played_games": 10,
+    "mvps_won": 1,
+    "team": {
+      "name": "Porcinos FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/porcinos-fc.svg"
+    }
+  },
+  {
+    "rank": 29,
+    "name": "Espinosa",
     "played_games": 9,
+    "mvps_won": 1,
+    "team": {
+      "name": "Porcinos FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/porcinos-fc.svg"
+    }
+  },
+  {
+    "rank": 30,
+    "name": "J. Segovia",
+    "played_games": 10,
+    "mvps_won": 1,
+    "team": {
+      "name": "Porcinos FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/porcinos-fc.svg"
+    }
+  },
+  {
+    "rank": 31,
+    "name": "Pelaz",
+    "played_games": 10,
+    "mvps_won": 1,
+    "team": {
+      "name": "Rayo de Barcelona",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/rayo-barcelona.svg"
+    }
+  },
+  {
+    "rank": 32,
+    "name": "Feliu",
+    "played_games": 10,
     "mvps_won": 1,
     "team": {
       "name": "Saiyans FC",
@@ -280,53 +320,43 @@
     }
   },
   {
-    "rank": 29,
-    "name": "Arché",
-    "played_games": 9,
-    "mvps_won": 1,
-    "team": {
-      "name": "Ultimate Móstoles",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles.svg"
-    }
-  },
-  {
-    "rank": 30,
-    "name": "Guti",
-    "played_games": 8,
-    "mvps_won": 1,
-    "team": {
-      "name": "Ultimate Móstoles",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles.svg"
-    }
-  },
-  {
-    "rank": 31,
-    "name": "Poch",
-    "played_games": 9,
-    "mvps_won": 1,
-    "team": {
-      "name": "XBUYER TEAM",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer-team.svg"
-    }
-  },
-  {
-    "rank": 32,
-    "name": "Fouad",
-    "played_games": 4,
-    "mvps_won": 1,
-    "team": {
-      "name": "XBUYER TEAM",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer-team.svg"
-    }
-  },
-  {
     "rank": 33,
-    "name": "Corvo",
+    "name": "Arché",
+    "played_games": 10,
+    "mvps_won": 1,
+    "team": {
+      "name": "Ultimate Móstoles",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles.svg"
+    }
+  },
+  {
+    "rank": 34,
+    "name": "Guti",
+    "played_games": 9,
+    "mvps_won": 1,
+    "team": {
+      "name": "Ultimate Móstoles",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/ultimate-mostoles.svg"
+    }
+  },
+  {
+    "rank": 35,
+    "name": "Fouad",
+    "played_games": 5,
+    "mvps_won": 1,
+    "team": {
+      "name": "XBUYER TEAM",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/xbuyer-team.svg"
+    }
+  },
+  {
+    "rank": 36,
+    "name": "Iván",
     "played_games": 4,
     "mvps_won": 1,
     "team": {
-      "name": "PIO FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/pio.svg"
+      "name": "Jijantes FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/jijantes.svg"
     }
   }
 ]
