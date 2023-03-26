@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "name": "Ubón",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 5,
     "team": {
       "name": "El Barrio",
@@ -12,7 +12,7 @@
   {
     "rank": 2,
     "name": "F. Hernández",
-    "played_games": 10,
+    "played_games": 11,
     "mvps_won": 4,
     "team": {
       "name": "Aniquiladores FC",
@@ -22,7 +22,7 @@
   {
     "rank": 3,
     "name": "E. Álvaro",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 4,
     "team": {
       "name": "Los Troncos FC",
@@ -52,7 +52,7 @@
   {
     "rank": 6,
     "name": "Torrentbó",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 3,
     "team": {
       "name": "Kunisports",
@@ -62,7 +62,7 @@
   {
     "rank": 7,
     "name": "J. Verdú",
-    "played_games": 9,
+    "played_games": 10,
     "mvps_won": 3,
     "team": {
       "name": "Los Troncos FC",
@@ -82,7 +82,7 @@
   {
     "rank": 9,
     "name": "Briones",
-    "played_games": 10,
+    "played_games": 11,
     "mvps_won": 3,
     "team": {
       "name": "Saiyans FC",
@@ -92,7 +92,7 @@
   {
     "rank": 10,
     "name": "R. Carbó",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 3,
     "team": {
       "name": "Saiyans FC",
@@ -112,7 +112,7 @@
   {
     "rank": 12,
     "name": "Coro",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 2,
     "team": {
       "name": "Kunisports",
@@ -122,7 +122,7 @@
   {
     "rank": 13,
     "name": "Poch",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 2,
     "team": {
       "name": "XBUYER TEAM",
@@ -132,7 +132,7 @@
   {
     "rank": 14,
     "name": "C. Castro",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 2,
     "team": {
       "name": "XBUYER TEAM",
@@ -172,7 +172,7 @@
   {
     "rank": 18,
     "name": "Nadir",
-    "played_games": 5,
+    "played_games": 6,
     "mvps_won": 1,
     "team": {
       "name": "Aniquiladores FC",
@@ -182,7 +182,7 @@
   {
     "rank": 19,
     "name": "Gilles V.",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 1,
     "team": {
       "name": "Aniquiladores FC",
@@ -192,7 +192,7 @@
   {
     "rank": 20,
     "name": "Daniel P.",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 1,
     "team": {
       "name": "Aniquiladores FC",
@@ -202,7 +202,7 @@
   {
     "rank": 21,
     "name": "Jacobo",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 1,
     "team": {
       "name": "El Barrio",
@@ -212,7 +212,7 @@
   {
     "rank": 22,
     "name": "Pau ZZ",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 1,
     "team": {
       "name": "El Barrio",
@@ -242,7 +242,7 @@
   {
     "rank": 25,
     "name": "Víctor",
-    "played_games": 10,
+    "played_games": 11,
     "mvps_won": 1,
     "team": {
       "name": "Kunisports",
@@ -252,7 +252,7 @@
   {
     "rank": 26,
     "name": "Kun Agüero",
-    "played_games": 2,
+    "played_games": 3,
     "mvps_won": 1,
     "team": {
       "name": "Kunisports",
@@ -262,7 +262,7 @@
   {
     "rank": 27,
     "name": "P. Lechuga",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 1,
     "team": {
       "name": "Los Troncos FC",
@@ -282,7 +282,7 @@
   {
     "rank": 29,
     "name": "Lao",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 1,
     "team": {
       "name": "Porcinos FC",
@@ -292,7 +292,7 @@
   {
     "rank": 30,
     "name": "G. Cichero",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 1,
     "team": {
       "name": "Porcinos FC",
@@ -302,7 +302,7 @@
   {
     "rank": 31,
     "name": "Espinosa",
-    "played_games": 10,
+    "played_games": 11,
     "mvps_won": 1,
     "team": {
       "name": "Porcinos FC",
@@ -312,7 +312,7 @@
   {
     "rank": 32,
     "name": "J. Segovia",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 1,
     "team": {
       "name": "Porcinos FC",
@@ -322,7 +322,7 @@
   {
     "rank": 33,
     "name": "Uri Pons",
-    "played_games": 7,
+    "played_games": 8,
     "mvps_won": 1,
     "team": {
       "name": "Porcinos FC",
@@ -342,7 +342,7 @@
   {
     "rank": 35,
     "name": "Feliu",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 1,
     "team": {
       "name": "Saiyans FC",
@@ -352,7 +352,7 @@
   {
     "rank": 36,
     "name": "Arché",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 1,
     "team": {
       "name": "Ultimate Móstoles",
@@ -362,7 +362,7 @@
   {
     "rank": 37,
     "name": "Guti",
-    "played_games": 9,
+    "played_games": 10,
     "mvps_won": 1,
     "team": {
       "name": "Ultimate Móstoles",
@@ -372,7 +372,7 @@
   {
     "rank": 38,
     "name": "Iñaki",
-    "played_games": 11,
+    "played_games": 12,
     "mvps_won": 1,
     "team": {
       "name": "XBUYER TEAM",
@@ -382,7 +382,7 @@
   {
     "rank": 39,
     "name": "Fouad",
-    "played_games": 6,
+    "played_games": 7,
     "mvps_won": 1,
     "team": {
       "name": "XBUYER TEAM",
