@@ -71,16 +71,6 @@
   },
   {
     "rank": 8,
-    "name": "Trillus",
-    "played_games": 24,
-    "scored_goals": 6,
-    "team": {
-      "name": "Saiyans FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/saiyans-fc.svg"
-    }
-  },
-  {
-    "rank": 9,
     "name": "F. Hernández",
     "played_games": 11,
     "scored_goals": 5,
@@ -90,7 +80,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "name": "Beguer",
     "played_games": 11,
     "scored_goals": 5,
@@ -100,7 +90,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 10,
     "name": "Ruggeri",
     "played_games": 12,
     "scored_goals": 5,
@@ -110,7 +100,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 11,
     "name": "Guti",
     "played_games": 10,
     "scored_goals": 5,
@@ -120,7 +110,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 12,
     "name": "Jacobo",
     "played_games": 12,
     "scored_goals": 4,
@@ -130,7 +120,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 13,
     "name": "Ibai",
     "played_games": 6,
     "scored_goals": 4,
@@ -140,7 +130,7 @@
     }
   },
   {
-    "rank": 15,
+    "rank": 14,
     "name": "C. Planas",
     "played_games": 9,
     "scored_goals": 4,
@@ -150,7 +140,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 15,
     "name": "Aleix",
     "played_games": 12,
     "scored_goals": 4,
@@ -160,7 +150,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 16,
     "name": "Arché",
     "played_games": 12,
     "scored_goals": 4,
@@ -170,7 +160,7 @@
     }
   },
   {
-    "rank": 18,
+    "rank": 17,
     "name": "Poch",
     "played_games": 12,
     "scored_goals": 4,
@@ -180,7 +170,7 @@
     }
   },
   {
-    "rank": 19,
+    "rank": 18,
     "name": "Román",
     "played_games": 11,
     "scored_goals": 3,
@@ -190,7 +180,7 @@
     }
   },
   {
-    "rank": 20,
+    "rank": 19,
     "name": "Ricardo",
     "played_games": 11,
     "scored_goals": 3,
@@ -200,7 +190,7 @@
     }
   },
   {
-    "rank": 21,
+    "rank": 20,
     "name": "Sorroche",
     "played_games": 11,
     "scored_goals": 3,
@@ -210,7 +200,7 @@
     }
   },
   {
-    "rank": 22,
+    "rank": 21,
     "name": "Nadir",
     "played_games": 6,
     "scored_goals": 3,
@@ -220,7 +210,7 @@
     }
   },
   {
-    "rank": 23,
+    "rank": 22,
     "name": "Gilles V.",
     "played_games": 12,
     "scored_goals": 3,
@@ -230,7 +220,7 @@
     }
   },
   {
-    "rank": 24,
+    "rank": 23,
     "name": "Bernat",
     "played_games": 12,
     "scored_goals": 3,
@@ -240,7 +230,7 @@
     }
   },
   {
-    "rank": 25,
+    "rank": 24,
     "name": "Ubón",
     "played_games": 12,
     "scored_goals": 3,
@@ -250,7 +240,7 @@
     }
   },
   {
-    "rank": 26,
+    "rank": 25,
     "name": "Ros",
     "played_games": 12,
     "scored_goals": 3,
@@ -260,7 +250,7 @@
     }
   },
   {
-    "rank": 27,
+    "rank": 26,
     "name": "Pau ZZ",
     "played_games": 12,
     "scored_goals": 3,
@@ -270,7 +260,7 @@
     }
   },
   {
-    "rank": 28,
+    "rank": 27,
     "name": "Joan Inés",
     "played_games": 10,
     "scored_goals": 3,
@@ -280,7 +270,7 @@
     }
   },
   {
-    "rank": 29,
+    "rank": 28,
     "name": "Carlitos",
     "played_games": 11,
     "scored_goals": 3,
@@ -290,7 +280,7 @@
     }
   },
   {
-    "rank": 30,
+    "rank": 29,
     "name": "Lopo",
     "played_games": 11,
     "scored_goals": 3,
@@ -300,7 +290,7 @@
     }
   },
   {
-    "rank": 31,
+    "rank": 30,
     "name": "Dani P.",
     "played_games": 11,
     "scored_goals": 3,
@@ -310,7 +300,7 @@
     }
   },
   {
-    "rank": 32,
+    "rank": 31,
     "name": "Campu",
     "played_games": 11,
     "scored_goals": 3,
@@ -320,17 +310,17 @@
     }
   },
   {
-    "rank": 33,
-    "name": "A. Barragán",
-    "played_games": 2,
-    "scored_goals": 2,
+    "rank": 32,
+    "name": "V. Torres",
+    "played_games": 12,
+    "scored_goals": 3,
     "team": {
-      "name": "Jijantes FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/jijantes.svg"
+      "name": "Saiyans FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/saiyans-fc.svg"
     }
   },
   {
-    "rank": 34,
+    "rank": 33,
     "name": "Lautaro",
     "played_games": 10,
     "scored_goals": 2,
@@ -340,7 +330,7 @@
     }
   },
   {
-    "rank": 35,
+    "rank": 34,
     "name": "Pluvins",
     "played_games": 11,
     "scored_goals": 2,
@@ -350,8 +340,8 @@
     }
   },
   {
-    "rank": 36,
-    "name": "Pau Mañé",
+    "rank": 35,
+    "name": "Paul Mañé",
     "played_games": 10,
     "scored_goals": 2,
     "team": {
@@ -360,7 +350,7 @@
     }
   },
   {
-    "rank": 37,
+    "rank": 36,
     "name": "Jay",
     "played_games": 7,
     "scored_goals": 2,
@@ -370,7 +360,7 @@
     }
   },
   {
-    "rank": 38,
+    "rank": 37,
     "name": "Maca",
     "played_games": 11,
     "scored_goals": 2,
@@ -380,7 +370,7 @@
     }
   },
   {
-    "rank": 39,
+    "rank": 38,
     "name": "Miki",
     "played_games": 12,
     "scored_goals": 2,
@@ -390,7 +380,7 @@
     }
   },
   {
-    "rank": 40,
+    "rank": 39,
     "name": "Torrentbó",
     "played_games": 12,
     "scored_goals": 2,
@@ -400,8 +390,8 @@
     }
   },
   {
-    "rank": 41,
-    "name": "Noel",
+    "rank": 40,
+    "name": "Noel L.",
     "played_games": 10,
     "scored_goals": 2,
     "team": {
@@ -410,7 +400,7 @@
     }
   },
   {
-    "rank": 42,
+    "rank": 41,
     "name": "E. Álvaro",
     "played_games": 12,
     "scored_goals": 2,
@@ -420,7 +410,7 @@
     }
   },
   {
-    "rank": 43,
+    "rank": 42,
     "name": "X. Molas",
     "played_games": 12,
     "scored_goals": 2,
@@ -430,7 +420,7 @@
     }
   },
   {
-    "rank": 44,
+    "rank": 43,
     "name": "Dorkis",
     "played_games": 12,
     "scored_goals": 2,
@@ -440,7 +430,7 @@
     }
   },
   {
-    "rank": 45,
+    "rank": 44,
     "name": "Pau Fer",
     "played_games": 11,
     "scored_goals": 2,
@@ -450,7 +440,7 @@
     }
   },
   {
-    "rank": 46,
+    "rank": 45,
     "name": "Lao",
     "played_games": 12,
     "scored_goals": 2,
@@ -460,7 +450,7 @@
     }
   },
   {
-    "rank": 47,
+    "rank": 46,
     "name": "Killian",
     "played_games": 12,
     "scored_goals": 2,
@@ -470,7 +460,7 @@
     }
   },
   {
-    "rank": 48,
+    "rank": 47,
     "name": "M. Reyes",
     "played_games": 11,
     "scored_goals": 2,
@@ -480,7 +470,7 @@
     }
   },
   {
-    "rank": 49,
+    "rank": 48,
     "name": "Gio Ferinu",
     "played_games": 10,
     "scored_goals": 2,
@@ -490,8 +480,18 @@
     }
   },
   {
-    "rank": 50,
+    "rank": 49,
     "name": "R. Carbó",
+    "played_games": 12,
+    "scored_goals": 2,
+    "team": {
+      "name": "Saiyans FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/saiyans-fc.svg"
+    }
+  },
+  {
+    "rank": 50,
+    "name": "Feliu",
     "played_games": 12,
     "scored_goals": 2,
     "team": {

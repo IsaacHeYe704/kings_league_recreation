@@ -3,7 +3,7 @@
     "rank": 1,
     "name": "Ubón",
     "played_games": 12,
-    "scored_goals": 15,
+    "scored_goals": 17,
     "team": {
       "name": "El Barrio",
       "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg"
@@ -11,9 +11,9 @@
   },
   {
     "rank": 2,
-    "name": "Álvaro, E.",
+    "name": "E. Álvaro",
     "played_games": 12,
-    "scored_goals": 14,
+    "scored_goals": 15,
     "team": {
       "name": "Los Troncos FC",
       "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/los-troncos.png"
@@ -31,22 +31,22 @@
   },
   {
     "rank": 4,
-    "name": "Verdú, J.",
+    "name": "R. Carbó",
+    "played_games": 12,
+    "scored_goals": 13,
+    "team": {
+      "name": "Saiyans FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/saiyans-fc.svg"
+    }
+  },
+  {
+    "rank": 5,
+    "name": "J. Verdú",
     "played_games": 10,
     "scored_goals": 11,
     "team": {
       "name": "Los Troncos FC",
       "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/los-troncos.png"
-    }
-  },
-  {
-    "rank": 5,
-    "name": "R. Carbó",
-    "played_games": 12,
-    "scored_goals": 11,
-    "team": {
-      "name": "Saiyans FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/saiyans-fc.svg"
     }
   },
   {
@@ -131,6 +131,16 @@
   },
   {
     "rank": 14,
+    "name": "Beguer",
+    "played_games": 11,
+    "scored_goals": 7,
+    "team": {
+      "name": "El Barrio",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg"
+    }
+  },
+  {
+    "rank": 15,
     "name": "Lopo",
     "played_games": 11,
     "scored_goals": 7,
@@ -140,7 +150,7 @@
     }
   },
   {
-    "rank": 15,
+    "rank": 16,
     "name": "C. Castro",
     "played_games": 12,
     "scored_goals": 7,
@@ -150,23 +160,13 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 17,
     "name": "Corvo",
     "played_games": 6,
     "scored_goals": 7,
     "team": {
       "name": "PIO FC",
       "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/pio.svg"
-    }
-  },
-  {
-    "rank": 17,
-    "name": "Beguer",
-    "played_games": 11,
-    "scored_goals": 6,
-    "team": {
-      "name": "El Barrio",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg"
     }
   },
   {
@@ -181,6 +181,16 @@
   },
   {
     "rank": 19,
+    "name": "Gilles V.",
+    "played_games": 12,
+    "scored_goals": 5,
+    "team": {
+      "name": "Aniquiladores FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/aniquiladores.svg"
+    }
+  },
+  {
+    "rank": 20,
     "name": "J. Blanco",
     "played_games": 12,
     "scored_goals": 5,
@@ -190,7 +200,7 @@
     }
   },
   {
-    "rank": 20,
+    "rank": 21,
     "name": "Espinosa",
     "played_games": 11,
     "scored_goals": 5,
@@ -200,7 +210,7 @@
     }
   },
   {
-    "rank": 21,
+    "rank": 22,
     "name": "Uri Pons",
     "played_games": 8,
     "scored_goals": 5,
@@ -210,7 +220,7 @@
     }
   },
   {
-    "rank": 22,
+    "rank": 23,
     "name": "M. Reyes",
     "played_games": 11,
     "scored_goals": 5,
@@ -220,7 +230,7 @@
     }
   },
   {
-    "rank": 23,
+    "rank": 24,
     "name": "Iván",
     "played_games": 5,
     "scored_goals": 5,
@@ -230,7 +240,7 @@
     }
   },
   {
-    "rank": 24,
+    "rank": 25,
     "name": "Pluvins",
     "played_games": 11,
     "scored_goals": 4,
@@ -240,7 +250,7 @@
     }
   },
   {
-    "rank": 25,
+    "rank": 26,
     "name": "Nadir",
     "played_games": 6,
     "scored_goals": 4,
@@ -250,17 +260,17 @@
     }
   },
   {
-    "rank": 26,
-    "name": "Gilles V.",
+    "rank": 27,
+    "name": "Ros",
     "played_games": 12,
     "scored_goals": 4,
     "team": {
-      "name": "Aniquiladores FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/aniquiladores.svg"
+      "name": "El Barrio",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg"
     }
   },
   {
-    "rank": 27,
+    "rank": 28,
     "name": "Ibai",
     "played_games": 6,
     "scored_goals": 4,
@@ -270,7 +280,7 @@
     }
   },
   {
-    "rank": 28,
+    "rank": 29,
     "name": "Soriano",
     "played_games": 6,
     "scored_goals": 4,
@@ -280,7 +290,7 @@
     }
   },
   {
-    "rank": 29,
+    "rank": 30,
     "name": "Torrentbó",
     "played_games": 12,
     "scored_goals": 4,
@@ -290,8 +300,8 @@
     }
   },
   {
-    "rank": 30,
-    "name": "Sánchez, S.",
+    "rank": 31,
+    "name": "Sergio S.",
     "played_games": 3,
     "scored_goals": 4,
     "team": {
@@ -300,8 +310,8 @@
     }
   },
   {
-    "rank": 31,
-    "name": "Molas, X.",
+    "rank": 32,
+    "name": "X. Molas",
     "played_games": 12,
     "scored_goals": 4,
     "team": {
@@ -310,7 +320,7 @@
     }
   },
   {
-    "rank": 32,
+    "rank": 33,
     "name": "Carlitos",
     "played_games": 11,
     "scored_goals": 4,
@@ -320,7 +330,7 @@
     }
   },
   {
-    "rank": 33,
+    "rank": 34,
     "name": "Aleix",
     "played_games": 12,
     "scored_goals": 4,
@@ -330,7 +340,7 @@
     }
   },
   {
-    "rank": 34,
+    "rank": 35,
     "name": "Guti",
     "played_games": 10,
     "scored_goals": 4,
@@ -340,7 +350,7 @@
     }
   },
   {
-    "rank": 35,
+    "rank": 36,
     "name": "Fouad",
     "played_games": 7,
     "scored_goals": 4,
@@ -350,7 +360,7 @@
     }
   },
   {
-    "rank": 36,
+    "rank": 37,
     "name": "Rivero",
     "played_games": 11,
     "scored_goals": 3,
@@ -360,7 +370,7 @@
     }
   },
   {
-    "rank": 37,
+    "rank": 38,
     "name": "Marino",
     "played_games": 11,
     "scored_goals": 3,
@@ -370,7 +380,7 @@
     }
   },
   {
-    "rank": 38,
+    "rank": 39,
     "name": "Galvany",
     "played_games": 12,
     "scored_goals": 3,
@@ -380,7 +390,7 @@
     }
   },
   {
-    "rank": 39,
+    "rank": 40,
     "name": "Roger",
     "played_games": 12,
     "scored_goals": 3,
@@ -390,7 +400,17 @@
     }
   },
   {
-    "rank": 40,
+    "rank": 41,
+    "name": "Bernat",
+    "played_games": 12,
+    "scored_goals": 3,
+    "team": {
+      "name": "Aniquiladores FC",
+      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/aniquiladores.svg"
+    }
+  },
+  {
+    "rank": 42,
     "name": "O. Boada",
     "played_games": 9,
     "scored_goals": 3,
@@ -400,17 +420,7 @@
     }
   },
   {
-    "rank": 41,
-    "name": "Ros",
-    "played_games": 12,
-    "scored_goals": 3,
-    "team": {
-      "name": "El Barrio",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/el-barrio.svg"
-    }
-  },
-  {
-    "rank": 42,
+    "rank": 43,
     "name": "Joan Inés",
     "played_games": 10,
     "scored_goals": 3,
@@ -420,7 +430,7 @@
     }
   },
   {
-    "rank": 43,
+    "rank": 44,
     "name": "Pau Fer",
     "played_games": 11,
     "scored_goals": 3,
@@ -430,7 +440,7 @@
     }
   },
   {
-    "rank": 44,
+    "rank": 45,
     "name": "Biboum M.",
     "played_games": 11,
     "scored_goals": 3,
@@ -440,7 +450,7 @@
     }
   },
   {
-    "rank": 45,
+    "rank": 46,
     "name": "Guillem ZZ",
     "played_games": 11,
     "scored_goals": 3,
@@ -450,7 +460,7 @@
     }
   },
   {
-    "rank": 46,
+    "rank": 47,
     "name": "Gio Ferinu",
     "played_games": 10,
     "scored_goals": 3,
@@ -460,7 +470,7 @@
     }
   },
   {
-    "rank": 47,
+    "rank": 48,
     "name": "Feliu",
     "played_games": 12,
     "scored_goals": 3,
@@ -470,7 +480,7 @@
     }
   },
   {
-    "rank": 48,
+    "rank": 49,
     "name": "Román",
     "played_games": 11,
     "scored_goals": 2,
@@ -480,23 +490,13 @@
     }
   },
   {
-    "rank": 49,
+    "rank": 50,
     "name": "Sorroche",
     "played_games": 11,
     "scored_goals": 2,
     "team": {
       "name": "1K FC",
       "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/1k.svg"
-    }
-  },
-  {
-    "rank": 50,
-    "name": "Bernat",
-    "played_games": 12,
-    "scored_goals": 2,
-    "team": {
-      "name": "Aniquiladores FC",
-      "image": "https://kingsleague-api.herrerayepesisaac.workers.dev/static/logos/aniquiladores.svg"
     }
   }
 ]
